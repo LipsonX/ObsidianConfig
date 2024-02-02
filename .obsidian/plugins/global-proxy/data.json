@@ -1,0 +1,6 @@
+{
+  "enableProxy": false,
+  "httpProxy": "",
+  "httpsProxy": "",
+  "socksProxy": ""
+}
